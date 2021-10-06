@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* Starts here */
+.navbar {
+  display: flex;
+  width: 30%;
+  justify-content: space-around;
+  margin: 80px;
+}
