@@ -1,3 +1,6 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap'); */
+
 .App {
   text-align: center;
 }
@@ -42,14 +45,19 @@
   display: flex;
   width: 30%;
   justify-content: space-around;
-  margin: 120px;
+  margin: 100px;
+}
+.navbar a{
   text-decoration: none;
+  color: black;
 }
 
 .intro {
   width: 80%;
   margin: 0 auto;
 }
+
+
 
 .profile-photo {
   margin-top: 100px;
@@ -59,4 +67,20 @@
   border-radius: 30%;
   height: 400px;
   width: 450px;
+}
+
+.about, .skills{
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+  font-family: 'Oswald', sans-serif;
+}
+
+.about, .skills p {
+  line-height: 30px;
+  
+}
+
+.about a {
+  color: rgb(214, 20, 20);
 }
