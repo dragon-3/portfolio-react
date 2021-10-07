@@ -25,6 +25,7 @@ class MainComponent extends React.Component {
 
                     <Route path="/blog" exact component={BlogComponent} />
                     <Route path="/resume" component={ResumeComponent} />
+                    <Route path="/blog/1" component={HomeComponent} />
                     
                     
                     
