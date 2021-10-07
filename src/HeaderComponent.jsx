@@ -9,7 +9,7 @@ class HeaderComponent extends React.Component {
                 <div className="navbar">
                 <Link to="/" style={{textDecoration: 'none'}}>Home</Link>
                 <Link to="/blog" style={{textDecoration: 'none'}}>Blog</Link>
-                <Link to="/" style={{textDecoration: 'none'}}>Resume</Link>
+                <Link to="/resume" style={{textDecoration: 'none'}}>Resume</Link>
                 </div>
             </div>
             

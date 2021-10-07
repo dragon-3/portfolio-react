@@ -42,6 +42,21 @@
   display: flex;
   width: 30%;
   justify-content: space-around;
-  margin: 80px;
+  margin: 120px;
   text-decoration: none;
+}
+
+.intro {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.profile-photo {
+  margin-top: 100px;
+}
+
+.profile-photo img{
+  border-radius: 30%;
+  height: 400px;
+  width: 450px;
 }

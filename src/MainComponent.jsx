@@ -2,6 +2,7 @@ import React from 'react';
 import HomeComponent from './HomeComponent';
 import HeaderComponent from './HeaderComponent';
 import BlogComponent from './BlogComponent';
+import ResumeComponent from './ResumeComponent';
 import {
     BrowserRouter as Router,
     Switch,
@@ -23,7 +24,7 @@ class MainComponent extends React.Component {
                     <Route path="/" exact component={HomeComponent} />
 
                     <Route path="/blog" exact component={BlogComponent} />
-                    <Route path="/resume" component={HomeComponent} />
+                    <Route path="/resume" component={ResumeComponent} />
                     
                     
                     
