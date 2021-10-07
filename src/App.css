@@ -111,6 +111,37 @@
   margin: 50px;
 }
 
-hr {
+.home-component hr {
   color: rgb(250, 245, 245);
+}
+
+.blog-intro {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.blog-component hr {
+  color: rgb(250, 245, 245);
+  width: 80%;
+}
+
+.blog-content {
+  text-align: left;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.blog-box {
+  margin-top: 60px;
+}
+
+.blog-content p {
+  color: rgb(216, 5, 5);
+  font-weight: bold;
+}
+
+.blog-content a {
+  color: black;
+
 }
