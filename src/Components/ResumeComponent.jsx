@@ -8,11 +8,31 @@ class ResumeComponent extends React.Component {
             <div>
                 <div className="name-title">
                     <h1>Sean Narron</h1>
-                    <h2>Front End Developer</h2>
+                    <p>Front End Developer</p>
                 </div>
                 <div className="resume-box">
                     <div className="resume-intro">
-                        <p>Junior Front End Developer with 2 years experience in Web Development.</p>
+
+                        <div className="intro-message">
+                            <p>Junior Front End Developer with 2 years experience in Web Development. 
+                                100% Self-taught and deciplined. Began programming career by 
+                                starting out with building websites for local businesses. 
+                                Looking for an opprtunity where I can hone my frontend skills, 
+                                and eventually become a Senior Developer. 
+                            </p>
+                        </div>
+                        
+                        <div className="experience">
+                            <h3>Experience</h3>
+                            <hr />
+                            <div className="job-titles">
+                                <h6>2021-04 -
+                                    present
+                                </h6>
+                                <h5>Junior Front End Developer</h5>
+                            </div>
+                            
+                        </div>
                     </div>
                     <div className="resume-info">
                         <h4>Personal Info</h4>

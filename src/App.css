@@ -155,16 +155,27 @@
   color: white;
 }
 
-.resume-intro {
-  width: 100%;
-  border: 1px solid black;
+.name-title p {
+  font-size: 16px;
+}
 
+
+
+.resume-intro {
+  width: 98%;
+  line-height: 30px;
+  text-align: left;
+  padding-left: 12px;
 } 
 
+.resume-intro p {
+  font-size: 14px;
+}
+
 .resume-info {
-  border: 1px solid black;
   text-align: left;
-  padding-left: 5%;
+  padding-left: 7%;
+  background-color: rgb(240, 240, 240);
 }
 
 .resume-box {
@@ -183,4 +194,18 @@
 .right-dots {
   text-align: right;
   margin-right: 10px;
+}
+
+.experience hr {
+  width: 100%;
+}
+
+.experience h6 {
+  padding-left: 2px;
+}
+
+.job-titles {
+  display: grid;
+  grid-template-columns: 30% 50%;
+
 }
