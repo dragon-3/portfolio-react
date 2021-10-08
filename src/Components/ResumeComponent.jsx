@@ -6,7 +6,10 @@ class ResumeComponent extends React.Component {
     render() {
         return (
             <div>
-                resume
+                <div className="name-title">
+                    <h1>Sean Narron</h1>
+                    <h2>Front End Developer</h2>
+                </div>
             </div>
             
         )

@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import HomeComponent from './HomeComponent';
-import HeaderComponent from './HeaderComponent';
-import BlogComponent from './BlogComponent';
-import MainComponent from './MainComponent';
+import HomeComponent from './Components/HomeComponent';
+import HeaderComponent from './Components/HeaderComponent';
+import BlogComponent from './Components/BlogComponent';
+import MainComponent from './Components/MainComponent';
 import {
   BrowserRouter as Router,
   Switch,
