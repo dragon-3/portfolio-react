@@ -154,3 +154,33 @@
   background-color: rgb(60, 60, 77);
   color: white;
 }
+
+.resume-intro {
+  width: 100%;
+  border: 1px solid black;
+
+} 
+
+.resume-info {
+  border: 1px solid black;
+  text-align: left;
+  padding-left: 5%;
+}
+
+.resume-box {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: rgb(65, 64, 64);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.right-dots {
+  text-align: right;
+  margin-right: 10px;
+}
