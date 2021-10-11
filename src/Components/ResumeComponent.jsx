@@ -15,7 +15,7 @@ class ResumeComponent extends React.Component {
 
                         <div className="intro-message">
                             <p>Junior Front End Developer with 2 years experience in Web Development. 
-                                100% Self-taught and deciplined. Began programming career by 
+                                100% Self-taught and highly disciplined. Began programming career by 
                                 starting out with building websites for local businesses. 
                                 Looking for an opprtunity where I can hone my frontend skills, 
                                 and eventually become a Senior Developer. 
@@ -26,10 +26,38 @@ class ResumeComponent extends React.Component {
                             <h3>Experience</h3>
                             <hr />
                             <div className="job-titles">
-                                <h6>2021-04 -
+                                <h6 id="date-1">2021-04 --
                                     present
                                 </h6>
-                                <h5>Junior Front End Developer</h5>
+                                <h5 id="title-1">Frontend Engineer</h5>
+                                <p id="item-1"><em>IT Plus, Nagoya, Japan</em> <br />
+                                    ・Developed React applications for organizations in various sectors.<br />
+                                    ・Provided website maintenance and enhancements based on the customer's needs<br />
+                                    ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
+                                    Spring-Boot, Visualforce, etc).  <br />
+                                </p>
+                                <h6 id="date-2">2020-10 --
+                                    present
+                                </h6>
+                                <h5 id="title-2">Web Developer</h5>
+                                <p id="item-2"><em>Freelance, Huntington Beach, CA</em> <br />
+                                    ・Developed React applications for organizations in various sectors.<br />
+                                    ・Provided website maintenance and enhancements based on the customer's needs<br />
+                                    ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
+                                    Spring-Boot, Visualforce, etc).  <br />
+                                </p>
+                                    <h6 id="date-3">2020-10 --
+                                    present
+                                </h6>
+                                <h5 id="title-3">Content Analyst</h5>
+                                <p id="item-3"><em>Google, Palo Alto, CA</em> <br />
+                                    ・Developed React applications for organizations in various sectors.<br />
+                                    ・Provided website maintenance and enhancements based on the customer's needs<br />
+                                    ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
+                                    Spring-Boot, Visualforce, etc).  <br />
+                                </p>
+                                
+                                
                             </div>
                             
                         </div>
