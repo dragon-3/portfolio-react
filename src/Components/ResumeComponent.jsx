@@ -41,20 +41,20 @@ class ResumeComponent extends React.Component {
                                 </h6>
                                 <h5 id="title-2">Web Developer</h5>
                                 <p id="item-2"><em>Freelance, Huntington Beach, CA</em> <br />
-                                    ・Developed React applications for organizations in various sectors.<br />
-                                    ・Provided website maintenance and enhancements based on the customer's needs<br />
-                                    ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
-                                    Spring-Boot, Visualforce, etc).  <br />
+                                    ・Created user and mobile-friendly websites for busineses/individuals<br />
+                                    ・Maintained websites long-term using hostig services.<br />
+                                    {/* ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
+                                    Spring-Boot, Visualforce, etc). */}  <br />
                                 </p>
                                     <h6 id="date-3">2020-10 --
                                     present
                                 </h6>
                                 <h5 id="title-3">Content Analyst</h5>
                                 <p id="item-3"><em>Google, Palo Alto, CA</em> <br />
-                                    ・Developed React applications for organizations in various sectors.<br />
-                                    ・Provided website maintenance and enhancements based on the customer's needs<br />
-                                    ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
-                                    Spring-Boot, Visualforce, etc).  <br />
+                                    ・Responsible for analyzing google ads content based on guidelines before launching.<br />
+                                    ・Kept up with constantly changing guidelines in order to be fully aware of current trends on the internet.<br />
+                                    {/* ・Gained experience in working on full-stack applications depending on the user's current stack (Java 
+                                    Spring-Boot, Visualforce, etc). */}  <br />
                                 </p>
                                 
                                 
