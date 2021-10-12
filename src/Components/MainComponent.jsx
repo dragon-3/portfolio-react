@@ -4,7 +4,7 @@ import HeaderComponent from './HeaderComponent';
 import BlogComponent from './BlogComponent';
 import ResumeComponent from './ResumeComponent';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Switch,
     Route,
     Link
