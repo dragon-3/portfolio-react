@@ -115,6 +115,16 @@
   color: rgb(250, 245, 245);
 }
 
+.home-component {
+  margin-top: 150px;
+}
+
+.resume-component {
+  margin-top: 50px;
+}
+
+
+
 .blog-intro {
   margin-top: 150px;
   margin-bottom: 150px;
@@ -255,6 +265,15 @@
 #title-3 {
   grid-row: 5/6;
   grid-column: 2/2;
+}
 
 
+/* mobile */
+@media only screen and (max-width: 500px) {
+  
+  .resume-component {
+    margin-top: 120px;
+  }
+  
+  
 }
