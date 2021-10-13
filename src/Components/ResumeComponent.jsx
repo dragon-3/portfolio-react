@@ -67,7 +67,7 @@ class ResumeComponent extends React.Component {
                         <hr />
 
                         <h5>Email</h5>
-                        <p>seannarron9@gmail.com</p>
+                        <p>seannarron9<div className="mobile"><br /></div>@gmail.com</p>
 
                         <br />
 
