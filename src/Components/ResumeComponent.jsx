@@ -5,7 +5,7 @@ import {withRouter} from 'react-router'
 class ResumeComponent extends React.Component {
     render() {
         return (
-            <div>
+            <div className="resume-component">
                 <div className="name-title">
                     <h1>Sean Narron</h1>
                     <p>Front End Developer</p>
