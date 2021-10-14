@@ -12,7 +12,10 @@ class BlogComponent extends React.Component {
                     <h1>Blog: Thoughts on Life in general, and as a Front End Developer.</h1>
                 </div>
 
-                <hr />
+                <div className="blog-hr-one">
+                    <hr />
+                </div>
+
 
                 <div className="blog-box">
                     <div className="blog-content">
