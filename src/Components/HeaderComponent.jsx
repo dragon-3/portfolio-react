@@ -34,13 +34,12 @@ function HeaderComponent() {
 
                 <nav>
                     {(toggleMenu || screenWidth > 500) && (
-                        <ul className="list">
-                        <Link to="/" style={{textDecoration: 'none'}}><li className="items">Home</li></Link>              
-                        <Link to="/blog" style={{textDecoration: 'none'}}><li className="items">Blog</li></Link>
-                        <Link to="/resume" style={{textDecoration: 'none'}}><li className="items">Resume</li></Link>
-                        </ul>
+                        <div className="list">
+                        <Link to="/" style={{textDecoration: 'none'}}><a className="items">Home</a></Link>              
+                        <Link to="/blog" style={{textDecoration: 'none'}}><a className="items">Blog</a></Link>
+                        <Link to="/resume" style={{textDecoration: 'none'}}><a className="items">Resume</a></Link>
+                        </div>
                     )}
-                    
                     <button onClick={toggleNav} className="btn">Menu</button>
                 
                 </nav>
