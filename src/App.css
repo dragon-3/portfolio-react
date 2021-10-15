@@ -195,10 +195,14 @@
   padding-left: 7%;
   background-color: rgb(240, 240, 240);
 }
+.resume-info p {
+  font-size: 14px;
+}
 
 .resume-box {
   display: grid;
   grid-template-columns: 70% 30%;
+  grid-template-rows: 130%;
 }
 
 .dot {
@@ -225,7 +229,7 @@
 .job-titles {
   display: grid;
   grid-template-columns: 30% 60%;
-  grid-template-rows: 7% 35% 7% 25% 7% 35%;
+  grid-template-rows: 8% 45% 8% 30% 8% 35%;
 }
 
 #date-1 {
@@ -281,7 +285,29 @@
 
 
 /* mobile */
-@media only screen and (max-width: 500px) {
+
+
+@media only screen and (max-width: 700px) {
+  .resume-box {
+    grid-template-columns: 100%;
+    grid-template-rows: 70% 50%;
+  }
+  .intro-message {
+    width: 95%;
+    margin: auto;
+  }
+  .resume-intro {
+    padding: 0;
+    width: 90%;
+    margin: auto;
+    margin-top: 0;
+  }
+  .resume-info p {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
   
   .resume-component {
     margin-top: 100px;
@@ -296,7 +322,7 @@
     width: 70%;
   }
   .contact h1 {
-    font-size: 22px;
+    font-size: 20px;
   }
   .intro h1 {
     font-size: 24px;
@@ -319,6 +345,33 @@
   .blog-content h4{
     font-size: 14px;
   }
+  .home-component p {
+    font-size: 14px;  
+  }
+  .home-component h3{
+    font-size: 16px;  
+  }
+  
+  .resume-info {
+    margin-top: 100px;
+  }
+  
+  
+}
 
+
+
+@media only screen and (max-width: 440px) {
+  .job-titles {
+    column-gap: 2rem;
+  }
+  
+}
+
+@media only screen and (max-width: 370px) {
+  .resume-info {
+    margin-top: 170px;
+  }
+  
   
 }
