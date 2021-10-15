@@ -74,6 +74,15 @@ class ResumeComponent extends React.Component {
                         <h4>Skills</h4>
                         <hr />
 
+                        <p>Love for Reactjs Development</p>
+                        <div className="right-dots">
+                            <p className="dot"></p>
+                            <p className="dot"></p>
+                            <p className="dot"></p>
+                            <p className="dot"></p>
+                            <p className="dot" style={{backgroundColor:"rgb(65, 64, 64)"}}></p>
+                        </div>
+
                         <p>Willingness to learn</p>
                         <div className="right-dots">
                             <p className="dot"></p>
@@ -83,7 +92,7 @@ class ResumeComponent extends React.Component {
                             <p className="dot"></p>
                         </div>
 
-                        <p>Team player</p>
+                        <p>Team Player</p>
                         <div className="right-dots">
                             <p className="dot"></p>
                             <p className="dot"></p>
@@ -93,15 +102,7 @@ class ResumeComponent extends React.Component {
                         </div>
                         
                         
-                        <p>Sincerity</p>
-                        <div className="right-dots">
-                            <p className="dot"></p>
-                            <p className="dot"></p>
-                            <p className="dot"></p>
-                            <p className="dot"></p>
-                            <p className="dot"></p>
-                        </div>
-                        <p>Basic frontend stack (HTML, CSS, JS, React)</p>
+                        <p>Basic Frontend Stack (HTML, CSS, JS, React)</p>
                         <div className="right-dots">
                             <p className="dot"></p>
                             <p className="dot"></p>
@@ -109,7 +110,8 @@ class ResumeComponent extends React.Component {
                             <p className="dot"></p>
                             <p className="dot" style={{backgroundColor:"rgb(218, 214, 214)"}}></p>
                         </div>
-                        <p>Love for React development</p>
+                        
+                        <p>Comunication Skills</p>
                         <div className="right-dots">
                             <p className="dot"></p>
                             <p className="dot"></p>
@@ -117,7 +119,6 @@ class ResumeComponent extends React.Component {
                             <p className="dot"></p>
                             <p className="dot" style={{backgroundColor:"rgb(65, 64, 64)"}}></p>
                         </div>
-
                     </div>
                 </div>
                 
