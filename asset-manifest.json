@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.b9d46090.chunk.css",
+    "main.css": "/portfolio-react/static/css/main.ffa946d0.chunk.css",
     "main.js": "/portfolio-react/static/js/main.ea5c8edf.chunk.js",
     "main.js.map": "/portfolio-react/static/js/main.ea5c8edf.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.f41b1ec2.js",
@@ -10,7 +10,7 @@
     "static/js/3.db2a92df.chunk.js": "/portfolio-react/static/js/3.db2a92df.chunk.js",
     "static/js/3.db2a92df.chunk.js.map": "/portfolio-react/static/js/3.db2a92df.chunk.js.map",
     "index.html": "/portfolio-react/index.html",
-    "static/css/main.b9d46090.chunk.css.map": "/portfolio-react/static/css/main.b9d46090.chunk.css.map",
+    "static/css/main.ffa946d0.chunk.css.map": "/portfolio-react/static/css/main.ffa946d0.chunk.css.map",
     "static/js/2.49232204.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.49232204.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/portfolio-react/static/media/logo.6ce24c58.svg",
     "static/media/portfolio-photo.85df7b6a.JPG": "/portfolio-react/static/media/portfolio-photo.85df7b6a.JPG"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f41b1ec2.js",
     "static/js/2.49232204.chunk.js",
-    "static/css/main.b9d46090.chunk.css",
+    "static/css/main.ffa946d0.chunk.css",
     "static/js/main.ea5c8edf.chunk.js"
   ]
 }
