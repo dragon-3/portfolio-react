@@ -309,12 +309,10 @@
 
 @media only screen and (max-width: 550px) {
   
-  .resume-component {
-    margin-top: 100px;
-  }
-  .mobile {
-    display: block;
-  }
+  
+ .intro-message p {
+   line-height: 22px;
+ } 
   .about, .skills {
     width: 75%;
   }
@@ -357,6 +355,12 @@
   }
   
   
+}
+
+@media only screen and (max-width: 500px) {
+  .resume-component {
+    margin-top: 100px;
+  }
 }
 
 
